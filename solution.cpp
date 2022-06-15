@@ -14,6 +14,7 @@ using namespace std;
 
 /*takeaways
   - use recursion
+  - time complexity O(n)
 */
 int Solution::maxDepth(Node *root)
 {
